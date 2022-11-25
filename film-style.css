@@ -147,3 +147,41 @@ td a:visited {
   font-weight: 600;
   letter-spacing: 1px;
 } */
+
+
+
+.link-pocetna a{
+    text-decoration: underline;
+    color: var(--crvena);
+    font-size: 1.2rem;
+    margin: 10px ;
+    font-weight: bold;
+}
+
+.link-pocetna {
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
